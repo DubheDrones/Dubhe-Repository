@@ -1,14 +1,12 @@
 # Dubhe-Repository
-technical use of the repository
+Technical use of the repository
 
 
 
 TEAM MEMBERS
 
 
-Mercedes Saiz
-
-Carla Alonso
+Mercedes Saiz                                                                                                                       Carla Alonso
 
 Javier de la Peña
 
