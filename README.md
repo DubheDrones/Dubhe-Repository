@@ -45,3 +45,9 @@ Pablo Quesada Aguilera
 Every member of the team has permission to create and modify the repositories. However, the modifications will not be realised, under no circumstances, on the main repository of the project. Instead, a new branch of the repository will be created, and the changes will be made on that branch. Only after informing the rest of the staff (or the corresponding members) and having received the necessary approval, the merging of the branch with the main repository will be carried on.
 
 Failing to maintain this methodology of work, privileges of edition on the main document will be removed, making it compulsory to edit on a branch.
+
+                                                  Terminology and staff leaders
+ 
+Configuration Item (CI) will be considered any software component that the company will generate.
+
+Change Control Board (CCB) is composed by the Configuration Manager and the Design Manager, and thus, any approval or change request of the CI must be referred to any of these two.
