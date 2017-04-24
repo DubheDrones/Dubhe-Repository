@@ -289,6 +289,32 @@
     <element xmi:type="uml:Comment" href="Physical%20Characteristics.uml#_5RNrkL10EeaZ0bbK4Rda7A"/>
     <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5RO5sb10EeaZ0bbK4Rda7A" x="529" y="7"/>
   </children>
+  <children xmi:type="notation:Shape" xmi:id="_fCT-oCj0Eee0c9zA5a9pRA" type="Class_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_fCVz0Cj0Eee0c9zA5a9pRA" type="Class_NameLabel"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_fCVz0Sj0Eee0c9zA5a9pRA" type="Class_FloatingNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_fCVz0ij0Eee0c9zA5a9pRA" y="5"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_fCWa4Cj0Eee0c9zA5a9pRA" type="Class_AttributeCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_fCWa4Sj0Eee0c9zA5a9pRA"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_fCWa4ij0Eee0c9zA5a9pRA"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_fCWa4yj0Eee0c9zA5a9pRA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fCWa5Cj0Eee0c9zA5a9pRA"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_fCWa5Sj0Eee0c9zA5a9pRA" type="Class_OperationCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_fCWa5ij0Eee0c9zA5a9pRA"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_fCWa5yj0Eee0c9zA5a9pRA"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_fCWa6Cj0Eee0c9zA5a9pRA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fCWa6Sj0Eee0c9zA5a9pRA"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_fCWa6ij0Eee0c9zA5a9pRA" type="Class_NestedClassifierCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_fCWa6yj0Eee0c9zA5a9pRA"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_fCWa7Cj0Eee0c9zA5a9pRA"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_fCWa7Sj0Eee0c9zA5a9pRA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fCWa7ij0Eee0c9zA5a9pRA"/>
+    </children>
+    <element xmi:type="uml:Class" href="Physical%20Characteristics.uml#_etzHMCj0Eee0c9zA5a9pRA"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fCT-oSj0Eee0c9zA5a9pRA" x="702" y="319"/>
+  </children>
   <styles xmi:type="notation:StringValueStyle" xmi:id="_zlusQb1wEeaZ0bbK4Rda7A" name="diagram_compatibility_version" stringValue="1.2.0"/>
   <styles xmi:type="notation:DiagramStyle" xmi:id="_zlusQr1wEeaZ0bbK4Rda7A"/>
   <styles xmi:type="style:PapyrusViewStyle" xmi:id="_zlusQ71wEeaZ0bbK4Rda7A">
