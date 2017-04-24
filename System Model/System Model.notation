@@ -654,6 +654,40 @@
     <element xmi:type="uml:Class" href="System%20Model.uml#__iFJsCkBEeeZbMoHCq9dJw"/>
     <layoutConstraint xmi:type="notation:Bounds" xmi:id="__iFw8SkBEeeZbMoHCq9dJw" x="34" y="247" width="181" height="55"/>
   </children>
+  <children xmi:type="notation:Shape" xmi:id="_UyS_ACkCEeeRjJVrYTVsGg" type="Class_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_UyU0MCkCEeeRjJVrYTVsGg" type="Class_NameLabel"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_UyU0MSkCEeeRjJVrYTVsGg" type="Class_FloatingNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_UyVbQCkCEeeRjJVrYTVsGg" y="5"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_UyVbQSkCEeeRjJVrYTVsGg" type="Class_AttributeCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_UyVbQikCEeeRjJVrYTVsGg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_UyVbQykCEeeRjJVrYTVsGg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_UyVbRCkCEeeRjJVrYTVsGg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UyVbRSkCEeeRjJVrYTVsGg"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_UyVbRikCEeeRjJVrYTVsGg" type="Class_OperationCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_UyVbRykCEeeRjJVrYTVsGg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_UyVbSCkCEeeRjJVrYTVsGg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_UyVbSSkCEeeRjJVrYTVsGg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UyVbSikCEeeRjJVrYTVsGg"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_UyVbSykCEeeRjJVrYTVsGg" type="Class_NestedClassifierCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_UyVbTCkCEeeRjJVrYTVsGg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_UyVbTSkCEeeRjJVrYTVsGg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_UyVbTikCEeeRjJVrYTVsGg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UyVbTykCEeeRjJVrYTVsGg"/>
+    </children>
+    <children xmi:type="notation:Compartment" xmi:id="_UzU5wCkCEeeRjJVrYTVsGg" type="Flow Ports"/>
+    <children xmi:type="notation:Compartment" xmi:id="_UzU5wSkCEeeRjJVrYTVsGg" type="constraints"/>
+    <children xmi:type="notation:Compartment" xmi:id="_UzVg0CkCEeeRjJVrYTVsGg" type="Parts"/>
+    <children xmi:type="notation:Compartment" xmi:id="_UzVg0SkCEeeRjJVrYTVsGg" type="Proxy Ports"/>
+    <children xmi:type="notation:Compartment" xmi:id="_UzVg0ikCEeeRjJVrYTVsGg" type="Full Ports"/>
+    <children xmi:type="notation:Compartment" xmi:id="_UzVg0ykCEeeRjJVrYTVsGg" type="References"/>
+    <children xmi:type="notation:Compartment" xmi:id="_UzVg1CkCEeeRjJVrYTVsGg" type="Flow Properties"/>
+    <children xmi:type="notation:Compartment" xmi:id="_UzWH4CkCEeeRjJVrYTVsGg" type="Parameters"/>
+    <element xmi:type="uml:Actor" href="System%20Model.uml#_UyH_4CkCEeeRjJVrYTVsGg"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UyS_ASkCEeeRjJVrYTVsGg" x="1100" y="84"/>
+  </children>
   <styles xmi:type="notation:StringValueStyle" xmi:id="_E2iUoSj8EeesH9vZ2qB7KQ" name="diagram_compatibility_version" stringValue="1.2.0"/>
   <styles xmi:type="notation:DiagramStyle" xmi:id="_E2iUoij8EeesH9vZ2qB7KQ"/>
   <styles xmi:type="style:PapyrusViewStyle" xmi:id="_E2iUoyj8EeesH9vZ2qB7KQ">

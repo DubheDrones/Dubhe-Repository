@@ -70,6 +70,7 @@
       <ownedEnd xmi:type="uml:Property" xmi:id="_--XYoykBEeeZbMoHCq9dJw" name="staff" type="_4a-WYCj8EeesH9vZ2qB7KQ" association="_--WxkCkBEeeZbMoHCq9dJw"/>
     </packagedElement>
     <packagedElement xmi:type="uml:Class" xmi:id="__iFJsCkBEeeZbMoHCq9dJw" name="CopyOf_App_1"/>
+    <packagedElement xmi:type="uml:Actor" xmi:id="_UyH_4CkCEeeRjJVrYTVsGg" name="Actor1"/>
     <profileApplication xmi:type="uml:ProfileApplication" xmi:id="_EogfsCj8EeesH9vZ2qB7KQ">
       <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_Eore0Cj8EeesH9vZ2qB7KQ" source="http://www.eclipse.org/uml2/2.0.0/UML">
         <references xmi:type="ecore:EPackage" href="http://www.eclipse.org/papyrus/sysml/1.4/SysML#/"/>
