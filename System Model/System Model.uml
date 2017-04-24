@@ -20,9 +20,10 @@
     <packagedElement xmi:type="uml:Class" xmi:id="_2YWXUCj8EeesH9vZ2qB7KQ" name="System">
       <ownedAttribute xmi:type="uml:Property" xmi:id="_i7AbkikBEeeZbMoHCq9dJw" name="server" type="_5s7GcCj8EeesH9vZ2qB7KQ" aggregation="composite" association="_i6_NcCkBEeeZbMoHCq9dJw"/>
       <ownedAttribute xmi:type="uml:Property" xmi:id="_jN-a4CkBEeeZbMoHCq9dJw" name="drone" type="_5TnOkCj8EeesH9vZ2qB7KQ" aggregation="composite" association="_jN9MwCkBEeeZbMoHCq9dJw"/>
-      <ownedAttribute xmi:type="uml:Property" xmi:id="_jp6wASkBEeeZbMoHCq9dJw" name="app" type="_6A2IACj8EeesH9vZ2qB7KQ" aggregation="composite" association="_jp6I8CkBEeeZbMoHCq9dJw"/>
     </packagedElement>
-    <packagedElement xmi:type="uml:Class" xmi:id="_4a-WYCj8EeesH9vZ2qB7KQ" name="Staff"/>
+    <packagedElement xmi:type="uml:Class" xmi:id="_4a-WYCj8EeesH9vZ2qB7KQ" name="Staff">
+      <ownedAttribute xmi:type="uml:Property" xmi:id="_--XYoikBEeeZbMoHCq9dJw" name="app" type="_6A2IACj8EeesH9vZ2qB7KQ" aggregation="composite" association="_--WxkCkBEeeZbMoHCq9dJw"/>
+    </packagedElement>
     <packagedElement xmi:type="uml:Class" xmi:id="_5TnOkCj8EeesH9vZ2qB7KQ" name="Drone"/>
     <packagedElement xmi:type="uml:Class" xmi:id="_5s7GcCj8EeesH9vZ2qB7KQ" name="Server"/>
     <packagedElement xmi:type="uml:Class" xmi:id="_6A2IACj8EeesH9vZ2qB7KQ" name="App"/>
@@ -37,12 +38,6 @@
         <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_jN9z0SkBEeeZbMoHCq9dJw" key="nature" value="UML_Nature"/>
       </eAnnotations>
       <ownedEnd xmi:type="uml:Property" xmi:id="_jN-a4SkBEeeZbMoHCq9dJw" name="system" type="_2YWXUCj8EeesH9vZ2qB7KQ" association="_jN9MwCkBEeeZbMoHCq9dJw"/>
-    </packagedElement>
-    <packagedElement xmi:type="uml:Association" xmi:id="_jp6I8CkBEeeZbMoHCq9dJw" memberEnd="_jp6wASkBEeeZbMoHCq9dJw _jp6wAikBEeeZbMoHCq9dJw">
-      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_jp6I8SkBEeeZbMoHCq9dJw" source="org.eclipse.papyrus">
-        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_jp6wACkBEeeZbMoHCq9dJw" key="nature" value="UML_Nature"/>
-      </eAnnotations>
-      <ownedEnd xmi:type="uml:Property" xmi:id="_jp6wAikBEeeZbMoHCq9dJw" name="system" type="_2YWXUCj8EeesH9vZ2qB7KQ" association="_jp6I8CkBEeeZbMoHCq9dJw"/>
     </packagedElement>
     <packagedElement xmi:type="uml:Association" xmi:id="_kDr64CkBEeeZbMoHCq9dJw" memberEnd="_kDsh8ikBEeeZbMoHCq9dJw _kDtJACkBEeeZbMoHCq9dJw">
       <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_kDsh8CkBEeeZbMoHCq9dJw" source="org.eclipse.papyrus">
@@ -68,6 +63,13 @@
       </eAnnotations>
       <ownedEnd xmi:type="uml:Property" xmi:id="_lC-NoCkBEeeZbMoHCq9dJw" name="system domain" type="_Sq4OQCj8EeesH9vZ2qB7KQ" association="_lC8_gCkBEeeZbMoHCq9dJw"/>
     </packagedElement>
+    <packagedElement xmi:type="uml:Association" xmi:id="_--WxkCkBEeeZbMoHCq9dJw" memberEnd="_--XYoikBEeeZbMoHCq9dJw _--XYoykBEeeZbMoHCq9dJw">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_--XYoCkBEeeZbMoHCq9dJw" source="org.eclipse.papyrus">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_--XYoSkBEeeZbMoHCq9dJw" key="nature" value="UML_Nature"/>
+      </eAnnotations>
+      <ownedEnd xmi:type="uml:Property" xmi:id="_--XYoykBEeeZbMoHCq9dJw" name="staff" type="_4a-WYCj8EeesH9vZ2qB7KQ" association="_--WxkCkBEeeZbMoHCq9dJw"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Class" xmi:id="__iFJsCkBEeeZbMoHCq9dJw" name="CopyOf_App_1"/>
     <profileApplication xmi:type="uml:ProfileApplication" xmi:id="_EogfsCj8EeesH9vZ2qB7KQ">
       <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_Eore0Cj8EeesH9vZ2qB7KQ" source="http://www.eclipse.org/uml2/2.0.0/UML">
         <references xmi:type="ecore:EPackage" href="http://www.eclipse.org/papyrus/sysml/1.4/SysML#/"/>
@@ -138,4 +140,5 @@
   <Blocks:Block xmi:id="_5Tt8QCj8EeesH9vZ2qB7KQ" base_Class="_5TnOkCj8EeesH9vZ2qB7KQ"/>
   <Blocks:Block xmi:id="_5s-w0Cj8EeesH9vZ2qB7KQ" base_Class="_5s7GcCj8EeesH9vZ2qB7KQ"/>
   <Blocks:Block xmi:id="_6A6ZcCj8EeesH9vZ2qB7KQ" base_Class="_6A2IACj8EeesH9vZ2qB7KQ"/>
+  <Blocks:Block xmi:id="__iMecCkBEeeZbMoHCq9dJw" base_Class="__iFJsCkBEeeZbMoHCq9dJw"/>
 </xmi:XMI>
