@@ -72,13 +72,7 @@ C++</body>
       </eAnnotations>
       <ownedEnd xmi:type="uml:Property" xmi:id="_TcjeoCkDEeeZbMoHCq9dJw" name="system" type="_2YWXUCj8EeesH9vZ2qB7KQ" association="_TciQgCkDEeeZbMoHCq9dJw"/>
     </packagedElement>
-
     <packagedElement xmi:type="uml:Class" xmi:id="_UjO9YCkEEeeZbMoHCq9dJw" name="Block1"/>
-
-    <packagedElement xmi:type="uml:Actor" xmi:id="_UyH_4CkCEeeRjJVrYTVsGg" name="Actor1"/>
-    <packagedElement xmi:type="uml:Actor" xmi:id="_GgIPACkEEeeRjJVrYTVsGg" name="Actor2"/>
-    <packagedElement xmi:type="uml:Actor" xmi:id="_GtcSQCkEEeeRjJVrYTVsGg" name="Actor3"/>
-
     <profileApplication xmi:type="uml:ProfileApplication" xmi:id="_EogfsCj8EeesH9vZ2qB7KQ">
       <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_Eore0Cj8EeesH9vZ2qB7KQ" source="http://www.eclipse.org/uml2/2.0.0/UML">
         <references xmi:type="ecore:EPackage" href="http://www.eclipse.org/papyrus/sysml/1.4/SysML#/"/>
