@@ -6,7 +6,9 @@
   <packageImport xmi:type="uml:PackageImport" xmi:id="_UuAyYCj2Eee0c9zA5a9pRA">
     <importedPackage xmi:type="uml:Package" href="pathmap://SysML14_LIBRARIES/SysML-Standard-Library.uml#SysML.package_packagedElement_Libraries"/>
   </packageImport>
-  <packagedElement xmi:type="uml:Activity" xmi:id="_YNpskCj3Eee0c9zA5a9pRA" name="Activity1"/>
+  <packagedElement xmi:type="uml:Activity" xmi:id="_YNpskCj3Eee0c9zA5a9pRA" name="Activity1" node="_To2cACq1EeeA2MuSSkJeEA">
+    <node xmi:type="uml:InitialNode" xmi:id="_To2cACq1EeeA2MuSSkJeEA" name="InitialNode1"/>
+  </packagedElement>
   <packagedElement xmi:type="uml:Activity" xmi:id="_U8I7sCj7Eee0c9zA5a9pRA" name="Activity2"/>
   <profileApplication xmi:type="uml:ProfileApplication" xmi:id="_UrXuECj2Eee0c9zA5a9pRA">
     <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_UrY8MCj2Eee0c9zA5a9pRA" source="http://www.eclipse.org/uml2/2.0.0/UML">

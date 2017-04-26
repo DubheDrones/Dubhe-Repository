@@ -20,6 +20,17 @@
         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YYecjyj3Eee0c9zA5a9pRA"/>
       </children>
       <children xmi:type="notation:BasicCompartment" xmi:id="_YYeckCj3Eee0c9zA5a9pRA" type="Activity_ActivityNodeCompartment">
+        <children xmi:type="notation:Shape" xmi:id="_TqR_YCq1EeeA2MuSSkJeEA" type="InitialNode_Shape">
+          <children xmi:type="notation:DecorationNode" xmi:id="_TqUboCq1EeeA2MuSSkJeEA" type="InitialNode_FloatingNameLabel">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_TqVCsCq1EeeA2MuSSkJeEA" y="5"/>
+          </children>
+          <children xmi:type="notation:DecorationNode" xmi:id="_TqVpwCq1EeeA2MuSSkJeEA" type="InitialNode_StereotypeLabel">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_TqVpwSq1EeeA2MuSSkJeEA" y="5"/>
+          </children>
+          <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_TqSmcCq1EeeA2MuSSkJeEA"/>
+          <element xmi:type="uml:InitialNode" href="model.uml#_To2cACq1EeeA2MuSSkJeEA"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_TqSmcSq1EeeA2MuSSkJeEA" x="516" y="135"/>
+        </children>
         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YYeckSj3Eee0c9zA5a9pRA"/>
       </children>
       <element xmi:type="uml:Activity" href="model.uml#_YNpskCj3Eee0c9zA5a9pRA"/>
